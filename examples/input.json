@@ -1,0 +1,12 @@
+{
+  "packages": [
+    {
+      "name": "curl",
+      "version": "7.81.0"
+    },
+    {
+      "name": "tool",
+      "version": "*"
+    }
+  ]
+}

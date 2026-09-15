@@ -1,0 +1,9 @@
+{
+  "issues": [
+    {
+      "package": "tool",
+      "issue": "not-exactly-pinned"
+    }
+  ],
+  "all_pinned": false
+}
